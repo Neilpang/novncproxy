@@ -15,3 +15,5 @@ RUN chmod +x /cmd.sh
 
 CMD [ "/cmd.sh" ]
 
+EXPOSE 6080
+
